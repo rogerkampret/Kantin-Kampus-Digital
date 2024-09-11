@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Halaman-1" id="cclnr0MV8SFVgnPYZ3Cp">
-    <mxGraphModel dx="1246" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2427" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="Melakukan pembayaran dan pilih pembayaran" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="2" target="3" edge="1">
+        <mxCell id="16" value="Melakukan pembayaran" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="221" y="627" />
@@ -135,11 +135,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ar7cjklksiLk-khIRVn8-22" value="Proses Pemesanan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="570" width="200" height="200" as="geometry" />
+        <mxCell id="ar7cjklksiLk-khIRVn8-22" value="Proses Pemesanan" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="560" width="390" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ar7cjklksiLk-khIRVn8-23" value="Dimulai dari pemesanan dimulai dari&lt;div&gt;User melakukan pemesanan, memilih menu,&lt;/div&gt;&lt;div&gt;menu disampaikan ke kantin,&lt;/div&gt;&lt;div&gt;kantin menerima pesanan, pesanan di konfirmasi,&lt;/div&gt;&lt;div&gt;pesanan diperlukan pembayaran&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="608" width="290" height="90" as="geometry" />
+        <mxCell id="ar7cjklksiLk-khIRVn8-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dimulai dari&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;User melakukan pemesanan, melihat menu, memilih menu,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;menu disampaikan ke kantin,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;kantin menerima pesanan, pesanan di konfirmasi,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;pesanan diperlukan pembayaran&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ar7cjklksiLk-khIRVn8-22" vertex="1">
+          <mxGeometry x="25" y="60" width="340" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
